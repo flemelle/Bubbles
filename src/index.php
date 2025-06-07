@@ -1,9 +1,5 @@
 <!DOCTYPE html>
-<?php
-    session_start();
-    include('db/PDO.php');
-    include ('log.php');
-?>
+
 <html>
     <head>
         <title>Bubbles</title>
